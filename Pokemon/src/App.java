@@ -70,7 +70,7 @@ public class App {
 
             } catch (Exception e) {
                 System.out.println("Error: " + e.getMessage());
-                scanner.nextLine(); // Limpiar buffer
+                scanner.nextLine(); 
             }
 
             if (continuar) {
