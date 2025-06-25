@@ -4,7 +4,7 @@ import pokemon.PokemonBase;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println(" SISTEMA DE ATAQUES POKÉMON 🎮");
+        System.out.println(" SISTEMA DE ATAQUES POKÉMON ");
         System.out.println("================================");
 
         // Crear Pokémon base
